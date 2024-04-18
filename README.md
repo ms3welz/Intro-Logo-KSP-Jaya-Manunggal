@@ -2,7 +2,7 @@
 Sebuah proyek dalam Adobe After Effects CC 2024 yang dirancang untuk menciptakan efek pembukaan yang bersih dan menarik untuk logo dari KSP Jaya Manunggal. Proyek ini menggabungkan teknik 3D untuk menciptakan efek yang realistis dan profesional.
 
 ## Requirements
-- Adobe After Effects CC 2024 (v24.0.0) atau versi lebih baru
+- Adobe After Effects CC 2024 (v24.0.0 Build 55) atau versi lebih baru
 
 ## Fitur
 - Animasi 3D yang menarik
