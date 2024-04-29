@@ -17,4 +17,4 @@ Sebuah proyek dalam Adobe After Effects CC 2024 yang dirancang untuk menciptakan
 
 ## Preview
 > Klik Gambar untuk melihat Demo videonya
-[![Preview Logi](/Preview/Preview-Logo.jpg)](https://www.instagram.com/p/C52sT60oJXZ/)
+[![Preview Logo](/Assets/Preview/Preview-Logo.jpg)](https://www.instagram.com/p/C52sT60oJXZ/)
