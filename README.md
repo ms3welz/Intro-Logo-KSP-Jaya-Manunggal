@@ -18,3 +18,20 @@ Sebuah proyek dalam Adobe After Effects CC 2024 yang dirancang untuk menciptakan
 ## Preview
 > Klik Gambar untuk melihat Demo videonya
 [![Preview Logo](/Assets/Preview/Preview-Logo.jpg)](https://www.instagram.com/p/C52sT60oJXZ/)
+
+## Directory Tree
+```
+├──Opener-Logo-KSP-Jaya-Manunggal
+    ├──.gitattributes
+    ├──Assets
+        ├──Fonts
+            ├──Neue Montreal
+        ├──Preview
+        ├──SFx
+    ├──LICENSE
+    ├──Projects
+        ├──(Footage)
+            ├──Compositions & Materials
+                ├──overly
+    ├──README.md
+```
